@@ -1,0 +1,4 @@
+UPDATE       ResultReport
+SET                Total = @Total, Grade = @grade
+WHERE        (Term = @term) AND (Session = @sess) AND (Clas = @clas) AND (FullName = @names);  
+SELECT Iden, FullName, Clas, Session, Term, Subject, CA1, CA2, Exam, Total, GrandTotal, Grade, Average, PositionSubject, PositionTotal, Remark FROM ResultReport WHERE (Iden = @Iden)

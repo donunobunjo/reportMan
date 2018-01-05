@@ -1,0 +1,6 @@
+ DataTable dt = new DataTable();
+               // dt = this.clasTableAdapter.GetDataBy1(textBox1.Text, textBox2.Text);
+                dt = this.pwdUsersTableAdapter.GetDataByUserPassword(textBox1.Text, textBox2.Text);
+ usernme = dt.Rows[0][1].ToString();
+                pwd = dt.Rows[0][2].ToString();
+                roles = dt.Rows[0][3].ToString();

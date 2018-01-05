@@ -1,0 +1,30 @@
+Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+        'trials = 0
+        If TextBox1.Text = "" Then
+            MsgBox("Enter a user name")
+            TextBox1.Focus()
+            Exit Sub
+        End If
+        If TextBox2.Text = "" Then
+            MsgBox("Enter a password")
+            TextBox2.Focus()
+            Exit Sub
+        End If
+        Dim dt As DataTable
+        dt = Me.Table1TableAdapter.GetDataBy(TextBox1.Text, TextBox2.Text)
+        If dt.Rows.Count = 0 Then
+            MsgBox("incorrect password")
+            trials = trials + 1
+            If trials = 3 Then
+                MsgBox("Shutting down ....")
+                Me.Close()
+            End If
+            TextBox1.Text = ""
+            TextBox2.Text = ""
+            TextBox1.Focus()
+            Exit Sub
+        End If
+        Dim sp As New Splash
+        sp.Show()
+        Me.Close()
+    End Sub

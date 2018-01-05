@@ -1,0 +1,21 @@
+ 
+
+dialogresult result = msgbox.show("you wanna delete", "important question", messageboxbuttons.yesno)
+
+
+
+
+    Private Sub Button4_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button4.Click
+        If DataGridView4.SelectedRows.Count > 0 Then
+            DataGridView4.Rows.Remove(DataGridView4.SelectedRows(0))
+        Else
+            MessageBox.Show("Select a row, by click the row marker, before you hit Delete")
+        End If
+    End Sub
+
+
+
+e.cancel = true;
+return;
+
+

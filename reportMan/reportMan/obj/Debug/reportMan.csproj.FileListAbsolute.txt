@@ -1,0 +1,420 @@
+C:\Users\Don\Desktop\reportMan\reportMan\bin\Debug\reportMan.exe.config
+C:\Users\Don\Desktop\reportMan\reportMan\bin\Debug\reportMan.exe
+C:\Users\Don\Desktop\reportMan\reportMan\bin\Debug\reportMan.pdb
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.csprojResolveAssemblyReference.cache
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.MDI.resources
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.Properties.Resources.resources
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.csproj.GenerateResource.Cache
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.exe
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.pdb
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.NewClass.resources
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.Subject.resources
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.Session.resources
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.NewStudent.resources
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.ScoreSheet.resources
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.UpdateMarks.resources
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.edit4update.resources
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.Login.resources
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.ClassTermlyReport.resources
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.Find.resources
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.Promotion.resources
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.Validate.resources
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.ChangePassword.resources
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\RdlCompile.cache
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\RdlCompile.compiled
+C:\Users\Don\Desktop\reportMan - Copy\reportMan\bin\Debug\reportMan.exe.config
+C:\Users\Don\Desktop\reportMan - Copy\reportMan\obj\Debug\reportMan.exe
+C:\Users\Don\Desktop\reportMan - Copy\reportMan\obj\Debug\reportMan.pdb
+C:\Users\Don\Desktop\reportMan - Copy\reportMan\bin\Debug\reportMan.exe
+C:\Users\Don\Desktop\reportMan - Copy\reportMan\bin\Debug\reportMan.pdb
+C:\Users\Don\Desktop\reportMan - Copy\reportMan\obj\Debug\reportMan.csprojResolveAssemblyReference.cache
+C:\Users\Don\Desktop\reportMan - Copy\reportMan\obj\Debug\reportMan.ChangePassword.resources
+C:\Users\Don\Desktop\reportMan - Copy\reportMan\obj\Debug\reportMan.ClassTermlyReport.resources
+C:\Users\Don\Desktop\reportMan - Copy\reportMan\obj\Debug\reportMan.edit4update.resources
+C:\Users\Don\Desktop\reportMan - Copy\reportMan\obj\Debug\reportMan.Find.resources
+C:\Users\Don\Desktop\reportMan - Copy\reportMan\obj\Debug\reportMan.Login.resources
+C:\Users\Don\Desktop\reportMan - Copy\reportMan\obj\Debug\reportMan.NewClass.resources
+C:\Users\Don\Desktop\reportMan - Copy\reportMan\obj\Debug\reportMan.MDI.resources
+C:\Users\Don\Desktop\reportMan - Copy\reportMan\obj\Debug\reportMan.NewStudent.resources
+C:\Users\Don\Desktop\reportMan - Copy\reportMan\obj\Debug\reportMan.Promotion.resources
+C:\Users\Don\Desktop\reportMan - Copy\reportMan\obj\Debug\reportMan.Properties.Resources.resources
+C:\Users\Don\Desktop\reportMan - Copy\reportMan\obj\Debug\reportMan.ScoreSheet.resources
+C:\Users\Don\Desktop\reportMan - Copy\reportMan\obj\Debug\reportMan.Session.resources
+C:\Users\Don\Desktop\reportMan - Copy\reportMan\obj\Debug\reportMan.Subject.resources
+C:\Users\Don\Desktop\reportMan - Copy\reportMan\obj\Debug\reportMan.UpdateMarks.resources
+C:\Users\Don\Desktop\reportMan - Copy\reportMan\obj\Debug\reportMan.Validate.resources
+C:\Users\Don\Desktop\reportMan - Copy\reportMan\obj\Debug\reportMan.csproj.GenerateResource.Cache
+C:\Users\Don\Desktop\reportMan - Copy\reportMan\obj\Debug\RdlCompile.cache
+C:\Users\Don\Desktop\reportMan - Copy\reportMan\obj\Debug\RdlCompile.compiled
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.AdminChangePassword.resources
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.backdoor.resources
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.AssignTeacherToClass.resources
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.ReportSheet.resources
+C:\Users\Don\Desktop\reportMan\reportMan\bin\Debug\reportMan.exe.manifest
+C:\Users\Don\Desktop\reportMan\reportMan\bin\Debug\reportMan.application
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.exe.manifest
+C:\Users\Don\Desktop\reportMan\reportMan\obj\Debug\reportMan.application
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\bin\Debug\reportMan.exe.config
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.exe
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.pdb
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\bin\Debug\reportMan.exe.manifest
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\bin\Debug\reportMan.application
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\bin\Debug\reportMan.exe
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\bin\Debug\reportMan.pdb
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.csprojResolveAssemblyReference.cache
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.AdminChangePassword.resources
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.AssignTeacherToClass.resources
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.backdoor.resources
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.ChangePassword.resources
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.ClassTermlyReport.resources
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.edit4update.resources
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.Find.resources
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.Login.resources
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.NewClass.resources
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.MDI.resources
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.NewStudent.resources
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.Promotion.resources
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.Properties.Resources.resources
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.ReportSheet.resources
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.ScoreSheet.resources
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.Session.resources
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.Subject.resources
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.UpdateMarks.resources
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.Validate.resources
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.csproj.GenerateResource.Cache
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\RdlCompile.cache
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\RdlCompile.compiled
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.exe.manifest
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.application
+C:\Users\Don\Desktop\portfolio\reportMan\reportMan\obj\Debug\reportMan.NewStudentMain.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\bin\Debug\reportMan.exe.config
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.exe
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.pdb
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.csprojResolveAssemblyReference.cache
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.AdminChangePassword.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.AssignTeacherToClass.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.backdoor.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.ChangePassword.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.ClassTermlyReport.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.edit4update.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.Find.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.Login.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.NewClass.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.MDI.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.NewStudent.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.NewStudentMain.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.Promotion.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.Properties.Resources.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.ReportSheet.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.ScoreSheet.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.Session.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.Subject.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.UpdateMarks.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.Validate.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.csproj.GenerateResource.Cache
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\RdlCompile.cache
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\RdlCompile.compiled
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\bin\Debug\reportMan.exe.manifest
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\bin\Debug\reportMan.application
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\bin\Debug\reportMan.exe
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\bin\Debug\reportMan.pdb
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.exe.manifest
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.application
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.FindStudent.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.DisplayStudentInfo.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.Bill.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.BillPayment.resources
+C:\Users\Don\Desktop\reportMan\reportMan\reportMan\obj\Debug\reportMan.StudentAcctStatement.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\bin\Debug\reportMan.exe.config
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.exe
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.pdb
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\bin\Debug\reportMan.exe.manifest
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\bin\Debug\reportMan.application
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\bin\Debug\reportMan.exe
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\bin\Debug\reportMan.pdb
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.csprojResolveAssemblyReference.cache
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.AdminChangePassword.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.AssignTeacherToClass.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.backdoor.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.Bill.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.BillPayment.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.ChangePassword.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.ClassTermlyReport.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.DisplayStudentInfo.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.edit4update.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.Find.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.FindStudent.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.Login.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.NewClass.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.MDI.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.NewStudent.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.NewStudentMain.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.Promotion.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.Properties.Resources.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.ReportSheet.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.ScoreSheet.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.Session.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.StudentAcctStatement.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.Subject.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.UpdateMarks.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.Validate.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.csproj.GenerateResource.Cache
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\RdlCompile.cache
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\RdlCompile.compiled
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.exe.manifest
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.application
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.DefaultersList.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.revenueItem.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.expenseItem.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.inventoryIn.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.inventoryItem.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.inventoryOut.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.expense.resources
+C:\Users\Don\Desktop\Yisheng\reportMan\reportMan\obj\Debug\reportMan.revenue.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\bin\Debug\reportMan.exe.config
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.exe
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.pdb
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\bin\Debug\reportMan.exe.manifest
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\bin\Debug\reportMan.application
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\bin\Debug\reportMan.exe
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\bin\Debug\reportMan.pdb
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.csprojResolveAssemblyReference.cache
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.AdminChangePassword.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.AssignTeacherToClass.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.backdoor.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.Bill.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.BillPayment.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.ChangePassword.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.ClassTermlyReport.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.expense.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.revenue.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.inventoryOut.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.revenueItem.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.DefaultersList.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.DisplayStudentInfo.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.edit4update.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.expenseItem.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.Find.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.FindStudent.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.inventoryIn.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.inventoryItem.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.Login.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.NewClass.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.MDI.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.NewStudent.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.NewStudentMain.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.Promotion.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.Properties.Resources.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.ReportSheet.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.ScoreSheet.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.Session.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.StudentAcctStatement.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.Subject.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.UpdateMarks.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.Validate.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.csproj.GenerateResource.Cache
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\RdlCompile.cache
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\RdlCompile.compiled
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.exe.manifest
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.application
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.AllRevenueItems.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.AllExpenseItems.resources
+C:\Users\Aduwu\Desktop\New folder (2)\main backup\yisheng latest\reportMan\reportMan\obj\Debug\reportMan.AllInventoryItems.resources
+C:\yisheng\reportMan\reportMan\bin\Debug\reportMan.exe.config
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.exe
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.pdb
+C:\yisheng\reportMan\reportMan\bin\Debug\reportMan.exe.manifest
+C:\yisheng\reportMan\reportMan\bin\Debug\reportMan.application
+C:\yisheng\reportMan\reportMan\bin\Debug\reportMan.exe
+C:\yisheng\reportMan\reportMan\bin\Debug\reportMan.pdb
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.csprojResolveAssemblyReference.cache
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.AdminChangePassword.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.AllExpenseItems.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.AllInventoryItems.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.AllRevenueItems.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.AssignTeacherToClass.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.backdoor.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.Bill.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.BillPayment.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.ChangePassword.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.ClassTermlyReport.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.Deactivate.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.expense.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.revenue.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.inventoryOut.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.revenueItem.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.DefaultersList.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.DisplayStudentInfo.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.edit4update.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.expenseItem.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.Find.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.FindStudent.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.inventoryIn.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.inventoryItem.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.Login.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.NewClass.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.MDI.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.NewStudent.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.NewStudentMain.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.Promotion.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.Properties.Resources.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.ReportSheet.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.ScoreSheet.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.Session.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.StudentAcctStatement.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.Subject.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.UpdateMarks.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.Validate.resources
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.csproj.GenerateResource.Cache
+C:\yisheng\reportMan\reportMan\obj\Debug\RdlCompile.cache
+C:\yisheng\reportMan\reportMan\obj\Debug\RdlCompile.compiled
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.exe.manifest
+C:\yisheng\reportMan\reportMan\obj\Debug\reportMan.application
+C:\Yisheng Source\yisheng\reportMan\reportMan\bin\Debug\reportMan.exe.config
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.exe
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.pdb
+C:\Yisheng Source\yisheng\reportMan\reportMan\bin\Debug\reportMan.exe.manifest
+C:\Yisheng Source\yisheng\reportMan\reportMan\bin\Debug\reportMan.application
+C:\Yisheng Source\yisheng\reportMan\reportMan\bin\Debug\reportMan.exe
+C:\Yisheng Source\yisheng\reportMan\reportMan\bin\Debug\reportMan.pdb
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.csprojResolveAssemblyReference.cache
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.AdminChangePassword.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.AllExpenseItems.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.AllInventoryItems.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.AllRevenueItems.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.AssignTeacherToClass.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.backdoor.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.Bill.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.BillPayment.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.ChangePassword.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.ClassTermlyReport.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.Deactivate.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.expense.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.revenue.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.inventoryOut.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.revenueItem.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.DefaultersList.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.DisplayStudentInfo.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.edit4update.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.expenseItem.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.Find.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.FindStudent.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.inventoryIn.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.inventoryItem.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.Login.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.NewClass.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.MDI.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.NewStudent.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.NewStudentMain.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.Promotion.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.Properties.Resources.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.ReportSheet.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.ScoreSheet.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.Session.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.StudentAcctStatement.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.Subject.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.UpdateMarks.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.Validate.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.csproj.GenerateResource.Cache
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\RdlCompile.cache
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\RdlCompile.compiled
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.exe.manifest
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.application
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.TermlyExpenseReport.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.SessionExpenseReport.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.ContactUs.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.ItemExpenseReport.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.TermlyRevenueReport.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\bin\Debug\reportMan.exe.config
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.exe
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.pdb
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\bin\Debug\reportMan.exe.manifest
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\bin\Debug\reportMan.application
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\bin\Debug\reportMan.exe
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\bin\Debug\reportMan.pdb
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.csprojResolveAssemblyReference.cache
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.AdminChangePassword.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.AllExpenseItems.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.AllInventoryItems.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.AllRevenueItems.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.AssignTeacherToClass.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.backdoor.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.Bill.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.BillPayment.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.ChangePassword.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.ClassTermlyReport.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.ContactUs.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.ItemExpenseReport.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.SessionExpenseReport.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.Deactivate.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.expense.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.revenue.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.inventoryOut.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.revenueItem.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.DefaultersList.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.DisplayStudentInfo.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.edit4update.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.expenseItem.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.Find.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.FindStudent.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.inventoryIn.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.inventoryItem.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.Login.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.NewClass.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.MDI.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.NewStudent.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.NewStudentMain.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.Promotion.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.Properties.Resources.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.ReportSheet.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.ScoreSheet.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.Session.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.StudentAcctStatement.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.Subject.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.TermlyExpenseReport.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.TermlyRevenueReport.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.UpdateMarks.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.Validate.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.csproj.GenerateResource.Cache
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\RdlCompile.cache
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\RdlCompile.compiled
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.exe.manifest
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Debug\reportMan.application
+C:\Yisheng Source\yishengamain\reportMan\reportMan\bin\Debug\reportMan.exe.config
+C:\Yisheng Source\yishengamain\reportMan\reportMan\obj\Debug\reportMan.exe
+C:\Yisheng Source\yishengamain\reportMan\reportMan\obj\Debug\reportMan.pdb
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.SessionRevenueReport.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.ItemRevenueReport.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.FindStudentMain.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.StaffInfo.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.StaffList.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.StaffItemsRecieved.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.StaffItemsReturned.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.StaffInventoryReport.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.SubjectACE.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.NewUser.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.DropUsers.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.QuickFind.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.NewScholarshipValue.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.AllStudents.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.inactiveace.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.InactiveConvention.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.ActiveAce.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.ActiveConventional.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.ItemHistoryReport.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.StudentInventoryTransaction.resources
+C:\Yisheng Source\yisheng - Copy (41)\reportMan\reportMan\bin\Debug\reportMan.exe.config
+C:\Yisheng Source\yisheng - Copy (41)\reportMan\reportMan\obj\Debug\reportMan.exe
+C:\Yisheng Source\yisheng - Copy (41)\reportMan\reportMan\obj\Debug\reportMan.pdb
+C:\Yisheng Source\yisheng - Copy (46)\reportMan\reportMan\bin\Debug\reportMan.exe.config
+C:\Yisheng Source\yisheng - Copy (46)\reportMan\reportMan\obj\Debug\reportMan.exe
+C:\Yisheng Source\yisheng - Copy (46)\reportMan\reportMan\obj\Debug\reportMan.pdb
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.PaymentsReport.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.StudentInfoList.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.Reciepts.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.EditBill.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.EditBillPayment.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.RecieptsFake.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.FindReciept.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.FReciepts.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Debug\reportMan.RecieptsFind.resources

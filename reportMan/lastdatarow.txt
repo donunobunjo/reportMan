@@ -1,0 +1,1 @@
+DataRow LastRow = yourtable.Rows[youtable.rows.count-1]

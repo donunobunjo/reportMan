@@ -1,0 +1,139 @@
+C:\Yisheng Source\yisheng\reportMan\reportMan\bin\Release\reportMan.exe.config
+C:\Yisheng Source\yisheng\reportMan\reportMan\bin\Release\reportMan.exe.manifest
+C:\Yisheng Source\yisheng\reportMan\reportMan\bin\Release\reportMan.application
+C:\Yisheng Source\yisheng\reportMan\reportMan\bin\Release\reportMan.exe
+C:\Yisheng Source\yisheng\reportMan\reportMan\bin\Release\reportMan.pdb
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.AdminChangePassword.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.AllExpenseItems.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.AllInventoryItems.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.AllRevenueItems.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.AssignTeacherToClass.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.backdoor.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.Bill.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.BillPayment.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.ChangePassword.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.ClassTermlyReport.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.Deactivate.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.expense.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.revenue.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.inventoryOut.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.revenueItem.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.DefaultersList.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.DisplayStudentInfo.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.edit4update.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.expenseItem.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.Find.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.FindStudent.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.inventoryIn.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.inventoryItem.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.Login.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.NewClass.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.MDI.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.NewStudent.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.NewStudentMain.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.Promotion.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.Properties.Resources.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.ReportSheet.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.ScoreSheet.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.Session.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.StudentAcctStatement.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.Subject.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.UpdateMarks.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.Validate.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.csproj.GenerateResource.Cache
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\RdlCompile.cache
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\RdlCompile.compiled
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.exe.manifest
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.application
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.exe
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.pdb
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.csprojResolveAssemblyReference.cache
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.TermlyExpenseReport.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.SessionExpenseReport.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.ContactUs.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.ItemExpenseReport.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.TermlyRevenueReport.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\bin\Release\reportMan.exe.config
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\bin\Release\reportMan.exe.manifest
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\bin\Release\reportMan.application
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\bin\Release\reportMan.exe
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\bin\Release\reportMan.pdb
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.csprojResolveAssemblyReference.cache
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.AdminChangePassword.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.AllExpenseItems.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.AllInventoryItems.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.AllRevenueItems.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.AssignTeacherToClass.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.backdoor.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.Bill.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.BillPayment.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.ChangePassword.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.ClassTermlyReport.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.ContactUs.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.ItemExpenseReport.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.SessionExpenseReport.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.Deactivate.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.expense.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.revenue.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.inventoryOut.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.revenueItem.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.DefaultersList.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.DisplayStudentInfo.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.edit4update.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.expenseItem.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.Find.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.FindStudent.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.inventoryIn.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.inventoryItem.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.Login.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.NewClass.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.MDI.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.NewStudent.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.NewStudentMain.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.Promotion.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.Properties.Resources.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.ReportSheet.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.ScoreSheet.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.Session.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.StudentAcctStatement.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.Subject.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.TermlyExpenseReport.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.TermlyRevenueReport.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.UpdateMarks.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.Validate.resources
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.csproj.GenerateResource.Cache
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\RdlCompile.cache
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\RdlCompile.compiled
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.exe.manifest
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.application
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.exe
+C:\Yisheng Source\yisheng - Copy (2)\reportMan\reportMan\obj\Release\reportMan.pdb
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.SessionRevenueReport.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.ItemRevenueReport.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.FindStudentMain.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.StaffInfo.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.StaffItemsRecieved.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.StaffList.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.StaffItemsReturned.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.StaffInventoryReport.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.SubjectACE.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.NewUser.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.QuickFind.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.DropUsers.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.NewScholarshipValue.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.AllStudents.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.inactiveace.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.InactiveConvention.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.ActiveAce.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.ActiveConventional.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.ItemHistoryReport.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.StudentInventoryTransaction.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.PaymentsReport.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.StudentInfoList.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.EditBill.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.Reciepts.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.EditBillPayment.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.FindReciept.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.RecieptsFake.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.FReciepts.resources
+C:\Yisheng Source\yisheng\reportMan\reportMan\obj\Release\reportMan.RecieptsFind.resources

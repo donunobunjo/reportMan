@@ -1,0 +1,12 @@
+ AdminSegmentBindingSource.MoveFirst()
+        For i = 0 To cnt - 1
+            code = TextBox1.Text
+            title = TextBox2.Text
+            If code.Length = 2 Then
+                sector = code.Substring(0, 2)
+                mainorgcode = ""
+                suborgcode = ""
+                admincode = ""
+
+
+SELECT adminCode, adminName, organization, sector, subOrganisation, subSubOrganisation, subSubSubOrganisation FROM AdminCode WHERE (adminCode LIKE ? & '%')

@@ -1,0 +1,3 @@
+quick find's  fullnames need implementation
+
+fullname not implemented in bill

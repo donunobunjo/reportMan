@@ -1,0 +1,62 @@
+   Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
+        Dim adcode, adname, sector, org, suborg, subsuborg, subsubsuborg, encode, enname, acctype, subacctype, accclass, subaccclass, lineitem, fundcode, fundname, mainfund, subfund, fund As String
+        Dim lgcodess, lgnamess As String
+        Dim app2013, act2013, app_prop20114, prop2015, prop2016 As Decimal
+        Dim query As New demobudgetDataSetTableAdapters.TransactionsTableAdapter
+        'Dim i As Integer
+        ' i = DataGridView4.RowCount
+        For j = 0 To (Me.DataGridView4.RowCount - 1) - 1
+            adcode = DataGridView4.Item(8, j).Value.ToString
+            adname = DataGridView4.Item(0, j).Value.ToString
+            sector = DataGridView4.Item(9, j).Value.ToString
+            org = DataGridView4.Item(10, j).Value.ToString
+            suborg = DataGridView4.Item(11, j).Value.ToString
+            subsuborg = DataGridView4.Item(12, j).Value.ToString
+            subsubsuborg = DataGridView4.Item(13, j).Value.ToString
+            encode = DataGridView4.Item(14, j).Value.ToString
+            enname = DataGridView4.Item(1, j).Value.ToString
+            acctype = DataGridView4.Item(15, j).Value.ToString
+            subacctype = DataGridView4.Item(16, j).Value.ToString
+            accclass = DataGridView4.Item(17, j).Value.ToString
+            subaccclass = DataGridView4.Item(18, j).Value.ToString
+            lineitem = DataGridView4.Item(19, j).Value.ToString
+            fundcode = DataGridView4.Item(20, j).Value.ToString
+            fundname = DataGridView4.Item(2, j).Value.ToString
+            mainfund = DataGridView4.Item(21, j).Value.ToString
+            subfund = DataGridView4.Item(22, j).Value.ToString
+            fund = DataGridView4.Item(23, j).Value.ToString
+            If DataGridView4.Item(3, j).Value.ToString = "" Then
+                app2013 = 0D
+            Else
+                app2013 = System.Convert.ToDecimal(DataGridView4.Item(3, j).Value.ToString)
+            End If
+            If DataGridView4.Item(4, j).Value.ToString = "" Then
+                act2013 = 0D
+            Else
+                act2013 = System.Convert.ToDecimal(DataGridView4.Item(4, j).Value.ToString)
+            End If
+            If DataGridView4.Item(5, j).Value.ToString = "" Then
+                app_prop20114 = 0D
+            Else
+                app_prop20114 = System.Convert.ToDecimal(DataGridView4.Item(5, j).Value.ToString)
+            End If
+            If DataGridView4.Item(6, j).Value.ToString = "" Then
+                prop2015 = 0D
+            Else
+                prop2015 = System.Convert.ToDecimal(DataGridView4.Item(6, j).Value.ToString)
+            End If
+            If DataGridView4.Item(7, j).Value.ToString = "" Then
+                prop2016 = 0D
+            Else
+                prop2016 = System.Convert.ToDecimal(DataGridView4.Item(7, j).Value.ToString)
+            End If
+            lgcodess = DataGridView4.Item(24, j).Value.ToString
+            lgnamess = DataGridView4.Item(25, j).Value.ToString
+            query.InsertQuery(typee, adcode, adname, sector, org, suborg, subsuborg, subsubsuborg, encode, enname, acctype, subacctype, accclass, subaccclass, lineitem, fundcode, fundname, mainfund, subfund, fund, "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", app2013, act2013, app_prop20114, prop2015, prop2016, lgcodess, lgnamess)
+        Next
+        MsgBox("Database has been updated")
+        Me.AdminCodeTableAdapter.FillBy(Me.DemobudgetDataSet.AdminCode, "p")
+        Me.EconCodeTableAdapter.FillBy(Me.DemobudgetDataSet.EconCode, "p")
+        Me.FundCodeTableAdapter.FillBy(Me.DemobudgetDataSet.FundCode, "p")
+        DataGridView4.Rows.Clear()
+    End Sub

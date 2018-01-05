@@ -1,0 +1,32 @@
+ reportManDataSetTableAdapters.check4studentTableAdapter chec = new reportManDataSetTableAdapters.check4studentTableAdapter();
+            DataTable checktable = new DataTable();
+            checktable = chec.GetData(textBox2.Text, textBox3.Text, textBox1.Text);
+            if (checktable.Rows.Count > 0)
+            {
+                MessageBox.Show("You have already enrolled this student, you can't enroll a student twice");
+                return;
+            } 
+
+
+
+
+
+string firs, midd, surn,ssname, ffname, mmname;
+            firs = textBox2.Text; midd = textBox3.Text; surn = textBox1.Text;
+            for (int j = 0; j <= this.dataGridView1.RowCount - 1; j++)
+            {
+                ssname = dataGridView1.Rows[j].Cells[0].Value.ToString();
+                ffname = dataGridView1.Rows[j].Cells[1].Value.ToString();
+                mmname = dataGridView1.Rows[j].Cells[2].Value.ToString();
+                if ((ssname == surn) && (mmname == midd) && (ffname == firs))
+                {
+                    MessageBox.Show("You have already added this student to the grid, you can't enroll a student twice");
+                    return;
+                }
+
+            }
+
+
+
+
+checkDuplicatesScore

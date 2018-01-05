@@ -1,0 +1,1 @@
+SELECT adminCode, adminName, organization, sector, subOrganisation, subSubOrganisation, subSubSubOrganisation FROM AdminCode WHERE (adminCode LIKE ? & '%')

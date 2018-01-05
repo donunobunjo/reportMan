@@ -1,0 +1,5 @@
+ADDED SCHOOL AND DATEOFENROLLMENT TO THE STUDENTINFO 
+
+added school to class table
+
+thousand seperator for amount(expense, revenue etc)

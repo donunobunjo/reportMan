@@ -1,0 +1,45 @@
+1. All items are fixed eg PTA and External exams, hence tables shouldn't be blank
+
+
+2.a field(item)(category)is truncated in the tables
+
+3. what % does ca takes
+
+4.dELETE DATABASE
+
+5. subjects should not exceed 20 char
+
+6. js1a is for ace
+
+7. DONT DELETE the blank
+
+8.dates are always months before days
+
+pta equivalent to ptf in ACE
+
+unit price as label
+
+
+ Private Sub Button3_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button3.Click
+        Dim fin As String
+        Dim loc As Integer
+        loc = Me.DataBindingSource.Position
+        'Me.StudentsBindingSource.MoveFirst()
+        fin = InputBox("Enter recruit's number")
+        Me.DataBindingSource.Position = Me.DataBindingSource.Find("rec_no", fin)
+        path = TextBox7.Text
+        PictureBox1.Load(path)
+    End Sub
+
+
+
+
+
+
+
+instructions
+1.dont delete the blank.jpg
+2.dont let admission number be more than 10 charactere
+3. dont let items(expense, revenue or inventory) be more than 10 characters
+4. all passport must be 155 X 155 px
+5. entry of date without using date time picker

@@ -1,0 +1,489 @@
+Public Class editrecurrentrev
+    Dim crit As String
+    Dim crit1 As String
+    Dim crit2 As String
+    Dim gridcnt As Integer
+    Dim typee As String
+    Dim check As Integer
+    Public Property iden As Integer
+    Public Property admincode As String
+    Public Property econcode As String
+    Public Property fundcode As String
+    Public Property app2013 As Decimal
+    Public Property app_prop2014 As Decimal
+    Public Property prop2015 As Decimal
+    Public Property prop2016 As Decimal
+    Public Property lgcode As String
+    Public Property lgname As String
+    Public Property type As String
+    Public Property adname As String
+    Public Property actual2014 As Decimal
+
+
+    Private Sub recurrentrevenue_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        Dim lg As String
+        lg = lgcode + " " + lgname
+        ComboBox14.SelectedItem = lg
+        If fundcode = "" Then
+            Me.AdminCodeTableAdapter.FillBy(DemobudgetDataSet.AdminCode, admincode)
+            Me.EconCodeTableAdapter.FillBy(DemobudgetDataSet.EconCode, econcode)
+            Me.FundCodeTableAdapter.FillBy(DemobudgetDataSet.FundCode, "P")
+        Else
+            Me.AdminCodeTableAdapter.FillBy(DemobudgetDataSet.AdminCode, admincode)
+            Me.EconCodeTableAdapter.FillBy(DemobudgetDataSet.EconCode, econcode)
+            Me.FundCodeTableAdapter.FillBy(DemobudgetDataSet.FundCode, fundcode)
+        End If
+        'TODO: This line of code loads data into the 'DemobudgetDataSet.mainfund' table. You can move, or remove it, as needed.
+        Me.MainfundTableAdapter.Fill(Me.DemobudgetDataSet.mainfund)
+        'TODO: This line of code loads data into the 'DemobudgetDataSet.sector' table. You can move, or remove it, as needed.
+        Me.SectorTableAdapter.Fill(Me.DemobudgetDataSet.sector)
+        'TODO: This line of code loads data into the 'DemobudgetDataSet.Transactions' table. You can move, or remove it, as needed.
+        Me.TransactionsTableAdapter.Fill(Me.DemobudgetDataSet.Transactions)
+        Me.TransactionsTableAdapter.Fill(Me.DemobudgetDataSet.Transactions)
+        check = Me.TransactionsBindingSource.Count
+        If check > 300 Then
+            Me.Button1.Visible = False
+            Me.Button2.Visible = False
+        End If
+        Me.MdiParent = MDI
+
+        Me.CenterToScreen()
+        ' typee = "RECURRENT REVENUE"
+        TextBox1.Text = app2013
+        TextBox3.Text = app_prop2014
+        TextBox4.Text = prop2015
+        TextBox5.Text = prop2016
+        TextBox2.Text = actual2014
+    End Sub
+
+    Private Sub GroupBox1_Enter(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles GroupBox1.Enter
+
+    End Sub
+
+    Private Sub ComboBox12_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ComboBox12.SelectedIndexChanged
+        Me.FundTableAdapter.Fill(Me.DemobudgetDataSet.fund, ComboBox12.Text, ComboBox11.Text)
+        crit2 = ComboBox11.Text + ComboBox12.Text
+        Me.FundCodeTableAdapter.FillBy(Me.DemobudgetDataSet.FundCode, crit2)
+    End Sub
+
+    Private Sub TabPage4_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TabPage4.Click
+
+    End Sub
+
+    Private Sub Label15_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Label15.Click
+
+    End Sub
+
+    Private Sub TextBox4_KeyPress(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyPressEventArgs) Handles TextBox4.KeyPress
+        If Char.IsControl(e.KeyChar) = False Then
+            If Char.IsDigit(e.KeyChar) Or e.KeyChar = "." Then
+                If Me.TextBox4.Text.Contains(".") Then
+                    If Me.TextBox4.Text.Split(".")(1).Length < 2 Then
+                        If Char.IsDigit(e.KeyChar) = False Then
+                            e.Handled = True
+                        End If
+                    Else
+                        e.Handled = True
+                    End If
+                End If
+            Else
+                e.Handled = True
+            End If
+        End If
+    End Sub
+
+    Private Sub TextBox4_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TextBox4.TextChanged
+
+    End Sub
+
+    Private Sub Label17_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Label17.Click
+
+    End Sub
+
+    Private Sub TextBox3_KeyPress(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyPressEventArgs) Handles TextBox3.KeyPress
+        If Char.IsControl(e.KeyChar) = False Then
+            If Char.IsDigit(e.KeyChar) Or e.KeyChar = "." Then
+                If Me.TextBox3.Text.Contains(".") Then
+                    If Me.TextBox3.Text.Split(".")(1).Length < 2 Then
+                        If Char.IsDigit(e.KeyChar) = False Then
+                            e.Handled = True
+                        End If
+                    Else
+                        e.Handled = True
+                    End If
+                End If
+            Else
+                e.Handled = True
+            End If
+        End If
+    End Sub
+
+    Private Sub TextBox3_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TextBox3.TextChanged
+
+    End Sub
+
+    Private Sub TextBox5_KeyPress(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyPressEventArgs) Handles TextBox5.KeyPress
+        If Char.IsControl(e.KeyChar) = False Then
+            If Char.IsDigit(e.KeyChar) Or e.KeyChar = "." Then
+                If Me.TextBox5.Text.Contains(".") Then
+                    If Me.TextBox5.Text.Split(".")(1).Length < 2 Then
+                        If Char.IsDigit(e.KeyChar) = False Then
+                            e.Handled = True
+                        End If
+                    Else
+                        e.Handled = True
+                    End If
+                End If
+            Else
+                e.Handled = True
+            End If
+        End If
+    End Sub
+
+    Private Sub TextBox5_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TextBox5.TextChanged
+
+    End Sub
+
+    Private Sub GroupBox2_Enter(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles GroupBox2.Enter
+
+    End Sub
+
+    Private Sub DataGridView4_CellContentClick(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs) Handles DataGridView4.CellContentClick
+
+    End Sub
+
+    Private Sub ComboBox1_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ComboBox1.SelectedIndexChanged
+        Me.OrgTableAdapter.Fill(Me.DemobudgetDataSet.org, ComboBox1.Text)
+        Me.AdminCodeTableAdapter.FillBy(Me.DemobudgetDataSet.AdminCode, ComboBox1.Text)
+    End Sub
+
+    Private Sub ComboBox2_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ComboBox2.SelectedIndexChanged
+        Me.SuborgTableAdapter.Fill(Me.DemobudgetDataSet.suborg, ComboBox2.Text, ComboBox1.Text)
+        crit = ComboBox1.Text + " " + ComboBox2.Text
+        Me.AdminCodeTableAdapter.FillBy(Me.DemobudgetDataSet.AdminCode, crit)
+    End Sub
+
+    Private Sub ComboBox3_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ComboBox3.SelectedIndexChanged
+        Me.SubsuborgTableAdapter.Fill(Me.DemobudgetDataSet.subsuborg, ComboBox3.Text, ComboBox2.Text, ComboBox1.Text)
+        crit = ComboBox1.Text + " " + ComboBox2.Text + " " + ComboBox3.Text
+        Me.AdminCodeTableAdapter.FillBy(Me.DemobudgetDataSet.AdminCode, crit)
+    End Sub
+
+    Private Sub ComboBox4_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ComboBox4.SelectedIndexChanged
+        Me.SubsubsuborgTableAdapter.Fill(Me.DemobudgetDataSet.subsubsuborg, ComboBox4.Text, ComboBox3.Text, ComboBox2.Text, ComboBox1.Text)
+        crit = ComboBox1.Text + " " + ComboBox2.Text + " " + ComboBox3.Text + " " + ComboBox4.Text
+        Me.AdminCodeTableAdapter.FillBy(Me.DemobudgetDataSet.AdminCode, crit)
+    End Sub
+
+    Private Sub ComboBox6_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ComboBox6.SelectedIndexChanged
+        Me.EconCodeTableAdapter.recrev(Me.DemobudgetDataSet.EconCode, ComboBox6.Text)
+        ComboBox7.SelectedItem = Nothing
+        ComboBox8.SelectedItem = Nothing
+        ComboBox9.SelectedItem = Nothing
+        ComboBox10.SelectedItem = Nothing
+    End Sub
+
+    Private Sub ComboBox7_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ComboBox7.SelectedIndexChanged
+        Me.AccclassTableAdapter.Fill(Me.DemobudgetDataSet.accclass, ComboBox7.Text, ComboBox6.Text)
+        ComboBox8.SelectedItem = Nothing
+        ComboBox9.SelectedItem = Nothing
+        ComboBox10.SelectedItem = Nothing
+        crit1 = ComboBox6.Text + ComboBox7.Text
+        Me.EconCodeTableAdapter.FillBy(Me.DemobudgetDataSet.EconCode, crit1)
+    End Sub
+
+    Private Sub ComboBox8_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ComboBox8.SelectedIndexChanged
+        Me.SubacclassTableAdapter.Fill(Me.DemobudgetDataSet.subacclass, ComboBox8.Text, ComboBox7.Text, ComboBox6.Text)
+        ComboBox9.SelectedItem = Nothing
+        ComboBox10.SelectedItem = Nothing
+        crit1 = ComboBox6.Text + ComboBox7.Text + ComboBox8.Text
+        Me.EconCodeTableAdapter.FillBy(Me.DemobudgetDataSet.EconCode, crit1)
+    End Sub
+
+    Private Sub ComboBox9_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ComboBox9.SelectedIndexChanged
+        Me.LineitemTableAdapter.Fill(Me.DemobudgetDataSet.lineitem, ComboBox9.Text, ComboBox8.Text, ComboBox7.Text, ComboBox6.Text)
+        ComboBox10.SelectedItem = Nothing
+        crit1 = ComboBox6.Text + ComboBox7.Text + ComboBox8.Text + ComboBox9.Text
+        Me.EconCodeTableAdapter.FillBy(Me.DemobudgetDataSet.EconCode, crit1)
+    End Sub
+
+    Private Sub ComboBox10_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ComboBox10.SelectedIndexChanged
+        crit1 = ComboBox6.Text + ComboBox7.Text + ComboBox8.Text + ComboBox9.Text + ComboBox10.Text
+        Me.EconCodeTableAdapter.FillBy(Me.DemobudgetDataSet.EconCode, crit1)
+    End Sub
+
+    Private Sub ComboBox11_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ComboBox11.SelectedIndexChanged
+        Me.SubfundTableAdapter.Fill(Me.DemobudgetDataSet.subfund, ComboBox11.Text)
+        Me.FundCodeTableAdapter.FillBy(Me.DemobudgetDataSet.FundCode, ComboBox11.Text)
+    End Sub
+
+    Private Sub ComboBox13_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ComboBox13.SelectedIndexChanged
+        crit2 = ComboBox11.Text + ComboBox12.Text + ComboBox13.Text
+        Me.FundCodeTableAdapter.FillBy(Me.DemobudgetDataSet.FundCode, crit2)
+    End Sub
+
+    Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+        Dim gridcnt As Integer
+        Dim lgs As String
+        Dim lgnames As String
+        Dim lgcodeandnames As String
+        If ComboBox14.Text = "" Then
+            MsgBox("You should pick a local govt from the combo")
+            ComboBox14.Focus()
+            Exit Sub
+        End If
+        If Not (DataGridView1.RowCount = 1) Then
+            MsgBox("Your Admin Segment choice is more than 1 or you didn't make a choice !")
+            Exit Sub
+        End If
+        If Not (DataGridView2.RowCount = 1) Then
+            MsgBox("Your Economic Segment choice is more than 1 or you didn't make a choice!")
+            Exit Sub
+        End If
+        If DataGridView3.RowCount > 1 Then
+            MsgBox("You have more than one data in the fund segment grid")
+            Exit Sub
+        End If
+        lgcodeandnames = ComboBox14.Text
+        lgs = lgcodeandnames.Substring(0, 2)
+        lgnames = lgcodeandnames.Substring(3)
+        gridcnt = DataGridView4.RowCount
+        DataGridView4.Rows.Add()
+        DataGridView4.Rows(gridcnt - 1).Cells(0).Value = DataGridView1.Rows(0).Cells(1).Value.ToString
+        DataGridView4.Rows(gridcnt - 1).Cells(1).Value = DataGridView2.Rows(0).Cells(1).Value.ToString
+        If DataGridView3.RowCount = 0 Then
+            DataGridView4.Rows(gridcnt - 1).Cells(2).Value = ""
+        Else
+            DataGridView4.Rows(gridcnt - 1).Cells(2).Value = DataGridView3.Rows(0).Cells(1).Value.ToString
+        End If
+        DataGridView4.Rows(gridcnt - 1).Cells(3).Value = TextBox1.Text
+        DataGridView4.Rows(gridcnt - 1).Cells(4).Value = TextBox2.Text
+        DataGridView4.Rows(gridcnt - 1).Cells(5).Value = TextBox3.Text
+        DataGridView4.Rows(gridcnt - 1).Cells(6).Value = TextBox4.Text
+        DataGridView4.Rows(gridcnt - 1).Cells(7).Value = TextBox5.Text
+        DataGridView4.Rows(gridcnt - 1).Cells(8).Value = DataGridView1.Rows(0).Cells(0).Value.ToString
+        DataGridView4.Rows(gridcnt - 1).Cells(9).Value = DataGridView1.Rows(0).Cells(2).Value.ToString
+        DataGridView4.Rows(gridcnt - 1).Cells(10).Value = DataGridView1.Rows(0).Cells(3).Value.ToString
+        DataGridView4.Rows(gridcnt - 1).Cells(11).Value = DataGridView1.Rows(0).Cells(4).Value.ToString
+        DataGridView4.Rows(gridcnt - 1).Cells(12).Value = DataGridView1.Rows(0).Cells(5).Value.ToString
+        DataGridView4.Rows(gridcnt - 1).Cells(13).Value = DataGridView1.Rows(0).Cells(6).Value.ToString
+        DataGridView4.Rows(gridcnt - 1).Cells(14).Value = DataGridView2.Rows(0).Cells(0).Value.ToString
+        DataGridView4.Rows(gridcnt - 1).Cells(15).Value = DataGridView2.Rows(0).Cells(2).Value.ToString
+        DataGridView4.Rows(gridcnt - 1).Cells(16).Value = DataGridView2.Rows(0).Cells(3).Value.ToString
+        DataGridView4.Rows(gridcnt - 1).Cells(17).Value = DataGridView2.Rows(0).Cells(4).Value.ToString
+        DataGridView4.Rows(gridcnt - 1).Cells(18).Value = DataGridView2.Rows(0).Cells(5).Value.ToString
+        DataGridView4.Rows(gridcnt - 1).Cells(19).Value = DataGridView2.Rows(0).Cells(6).Value.ToString
+        If DataGridView3.RowCount = 0 Then
+            DataGridView4.Rows(gridcnt - 1).Cells(20).Value = ""
+        Else
+            DataGridView4.Rows(gridcnt - 1).Cells(20).Value = DataGridView3.Rows(0).Cells(0).Value.ToString
+        End If
+        If DataGridView3.RowCount = 0 Then
+            DataGridView4.Rows(gridcnt - 1).Cells(21).Value = ""
+        Else
+            DataGridView4.Rows(gridcnt - 1).Cells(21).Value = DataGridView3.Rows(0).Cells(2).Value.ToString
+        End If
+        If DataGridView3.RowCount = 0 Then
+            DataGridView4.Rows(gridcnt - 1).Cells(22).Value = ""
+        Else
+            DataGridView4.Rows(gridcnt - 1).Cells(22).Value = DataGridView3.Rows(0).Cells(3).Value.ToString
+        End If
+        If DataGridView3.RowCount = 0 Then
+            DataGridView4.Rows(gridcnt - 1).Cells(23).Value = ""
+        Else
+            DataGridView4.Rows(gridcnt - 1).Cells(23).Value = DataGridView3.Rows(0).Cells(4).Value.ToString
+        End If
+        DataGridView4.Rows(gridcnt - 1).Cells(24).Value = lgs
+        DataGridView4.Rows(gridcnt - 1).Cells(25).Value = lgnames
+        TextBox1.Text = ""
+        TextBox2.Text = ""
+        TextBox3.Text = ""
+        TextBox4.Text = ""
+        TextBox5.Text = ""
+        Button1.Enabled = False
+        Button2.Enabled = True
+    End Sub
+
+    Private Sub DataGridView1_CellContentClick(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs) Handles DataGridView1.CellContentClick
+        Dim con As String
+        con = DataGridView1.Rows(e.RowIndex).Cells(0).Value.ToString
+        Me.AdminCodeTableAdapter.FillBy(Me.DemobudgetDataSet.AdminCode, con)
+    End Sub
+
+    Private Sub DataGridView2_CellContentClick(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs) Handles DataGridView2.CellContentClick
+        Dim con As String
+        con = DataGridView2.Rows(e.RowIndex).Cells(0).Value.ToString
+        Me.EconCodeTableAdapter.FillBy(Me.DemobudgetDataSet.EconCode, con)
+    End Sub
+
+    Private Sub DataGridView3_CellContentClick(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs) Handles DataGridView3.CellContentClick
+        Dim con As String
+        con = DataGridView3.Rows(e.RowIndex).Cells(0).Value.ToString
+        Me.FundCodeTableAdapter.FillBy(Me.DemobudgetDataSet.FundCode, con)
+    End Sub
+
+    Private Sub Button3_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button3.Click
+        Me.AdminCodeTableAdapter.FillBy(Me.DemobudgetDataSet.AdminCode, "p")
+        Me.EconCodeTableAdapter.FillBy(Me.DemobudgetDataSet.EconCode, "p")
+        Me.FundCodeTableAdapter.FillBy(Me.DemobudgetDataSet.FundCode, "p")
+        TextBox1.Text = ""
+        TextBox2.Text = ""
+        TextBox3.Text = ""
+        TextBox4.Text = ""
+        TextBox5.Text = ""
+        DataGridView4.Rows.Clear()
+    End Sub
+
+    Private Sub Button4_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button4.Click
+        If DataGridView4.SelectedRows.Count > 0 Then
+            DataGridView4.Rows.Remove(DataGridView4.SelectedRows(0))
+        Else
+            MessageBox.Show("Select a row, by click the row marker, before you hit Delete")
+        End If
+    End Sub
+
+    Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
+        Dim viewdata As New viewdata
+        viewdata.Show()
+        viewdata.Focus()
+        viewdata.ComboBox1.Text = type
+        viewdata.ComboBox2.Text = adname
+        viewdata.ComboBox3.Text = lgname
+        'adcode = DataGridView4.Item(8, j).Value.ToString
+        viewdata.DataGridView1.Rows(iden).Cells(12).Value = DataGridView4.Item(8, 0).Value.ToString
+        'adname = DataGridView4.Item(0, j).Value.ToString
+        viewdata.DataGridView1.Rows(iden).Cells(2).Value = DataGridView4.Item(0, 0).Value.ToString
+        'sector = DataGridView4.Item(9, j).Value.ToString
+        viewdata.DataGridView1.Rows(iden).Cells(13).Value = DataGridView4.Item(9, 0).Value.ToString
+        'org = DataGridView4.Item(10, j).Value.ToString
+        viewdata.DataGridView1.Rows(iden).Cells(14).Value = DataGridView4.Item(10, 0).Value.ToString
+        'suborg = DataGridView4.Item(11, j).Value.ToString
+        viewdata.DataGridView1.Rows(iden).Cells(15).Value = DataGridView4.Item(11, 0).Value.ToString
+        'subsuborg = DataGridView4.Item(12, j).Value.ToString
+        viewdata.DataGridView1.Rows(iden).Cells(16).Value = DataGridView4.Item(12, 0).Value.ToString
+        'subsubsuborg = DataGridView4.Item(13, j).Value.ToString
+        viewdata.DataGridView1.Rows(iden).Cells(17).Value = DataGridView4.Item(13, 0).Value.ToString
+        'encode = DataGridView4.Item(14, j).Value.ToString
+        viewdata.DataGridView1.Rows(iden).Cells(18).Value = DataGridView4.Item(14, 0).Value.ToString
+        'enname = DataGridView4.Item(1, j).Value.ToString
+        viewdata.DataGridView1.Rows(iden).Cells(3).Value = DataGridView4.Item(1, 0).Value.ToString
+        'acctype = DataGridView4.Item(15, j).Value.ToString
+        viewdata.DataGridView1.Rows(iden).Cells(19).Value = DataGridView4.Item(15, 0).Value.ToString
+        'subacctype = DataGridView4.Item(16, j).Value.ToString
+        viewdata.DataGridView1.Rows(iden).Cells(20).Value = DataGridView4.Item(16, 0).Value.ToString
+        'accclass = DataGridView4.Item(17, j).Value.ToString
+        viewdata.DataGridView1.Rows(iden).Cells(21).Value = DataGridView4.Item(17, 0).Value.ToString
+        'subaccclass = DataGridView4.Item(18, j).Value.ToString
+        viewdata.DataGridView1.Rows(iden).Cells(22).Value = DataGridView4.Item(18, 0).Value.ToString
+        'lineitem = DataGridView4.Item(19, j).Value.ToString
+        viewdata.DataGridView1.Rows(iden).Cells(23).Value = DataGridView4.Item(19, 0).Value.ToString
+        'fundcode = DataGridView4.Item(20, j).Value.ToString
+        viewdata.DataGridView1.Rows(iden).Cells(24).Value = DataGridView4.Item(20, 0).Value.ToString
+        'fundname = DataGridView4.Item(2, j).Value.ToString
+        viewdata.DataGridView1.Rows(iden).Cells(4).Value = DataGridView4.Item(2, 0).Value.ToString
+        'mainfund = DataGridView4.Item(21, j).Value.ToString
+        viewdata.DataGridView1.Rows(iden).Cells(25).Value = DataGridView4.Item(21, 0).Value.ToString
+        'subfund = DataGridView4.Item(22, j).Value.ToString
+        viewdata.DataGridView1.Rows(iden).Cells(26).Value = DataGridView4.Item(22, 0).Value.ToString
+        'fund = DataGridView4.Item(23, j).Value.ToString
+        viewdata.DataGridView1.Rows(iden).Cells(45).Value = DataGridView4.Item(24, 0).Value.ToString
+        ' lgcode
+        'lgname
+        viewdata.DataGridView1.Rows(iden).Cells(46).Value = DataGridView4.Item(25, 0).Value.ToString
+        viewdata.DataGridView1.Rows(iden).Cells(27).Value = DataGridView4.Item(23, 0).Value.ToString
+        If DataGridView4.Item(3, 0).Value.ToString = "" Then
+            viewdata.DataGridView1.Rows(iden).Cells(8).Value = 0D
+        Else
+            viewdata.DataGridView1.Rows(iden).Cells(8).Value = System.Convert.ToDecimal(DataGridView4.Item(3, 0).Value.ToString)
+        End If
+        If DataGridView4.Item(4, 0).Value.ToString = "" Then
+            viewdata.DataGridView1.Rows(iden).Cells(44).Value = 0D
+        Else
+            viewdata.DataGridView1.Rows(iden).Cells(44).Value = System.Convert.ToDecimal(DataGridView4.Item(4, 0).Value.ToString)
+        End If
+        If DataGridView4.Item(5, 0).Value.ToString = "" Then
+            viewdata.DataGridView1.Rows(iden).Cells(9).Value = 0D
+        Else
+            viewdata.DataGridView1.Rows(iden).Cells(9).Value = System.Convert.ToDecimal(DataGridView4.Item(5, 0).Value.ToString)
+        End If
+        If DataGridView4.Item(6, 0).Value.ToString = "" Then
+            viewdata.DataGridView1.Rows(iden).Cells(10).Value = 0D
+        Else
+            viewdata.DataGridView1.Rows(iden).Cells(10).Value = System.Convert.ToDecimal(DataGridView4.Item(6, 0).Value.ToString)
+        End If
+        If DataGridView4.Item(7, 0).Value.ToString = "" Then
+            viewdata.DataGridView1.Rows(iden).Cells(11).Value = 0D
+        Else
+            viewdata.DataGridView1.Rows(iden).Cells(11).Value = System.Convert.ToDecimal(DataGridView4.Item(7, 0).Value.ToString)
+        End If
+        
+        Me.Close()
+
+    End Sub
+
+    Private Sub Button5_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button5.Click
+        Me.Close()
+    End Sub
+
+    Private Sub TextBox1_KeyPress(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyPressEventArgs) Handles TextBox1.KeyPress
+        If Char.IsControl(e.KeyChar) = False Then
+            If Char.IsDigit(e.KeyChar) Or e.KeyChar = "." Then
+                If Me.TextBox1.Text.Contains(".") Then
+                    If Me.TextBox1.Text.Split(".")(1).Length < 2 Then
+                        If Char.IsDigit(e.KeyChar) = False Then
+                            e.Handled = True
+                        End If
+                    Else
+                        e.Handled = True
+                    End If
+                End If
+            Else
+                e.Handled = True
+            End If
+        End If
+    End Sub
+
+    Private Sub TextBox1_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TextBox1.TextChanged
+
+    End Sub
+
+    Private Sub TextBox2_KeyPress(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyPressEventArgs) Handles TextBox2.KeyPress
+        If Char.IsControl(e.KeyChar) = False Then
+            If Char.IsDigit(e.KeyChar) Or e.KeyChar = "." Then
+                If Me.TextBox2.Text.Contains(".") Then
+                    If Me.TextBox2.Text.Split(".")(1).Length < 2 Then
+                        If Char.IsDigit(e.KeyChar) = False Then
+                            e.Handled = True
+                        End If
+                    Else
+                        e.Handled = True
+                    End If
+                End If
+            Else
+                e.Handled = True
+            End If
+        End If
+    End Sub
+
+    Private Sub TextBox2_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TextBox2.TextChanged
+
+    End Sub
+
+    Private Sub TabPage4_Enter(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TabPage4.Enter
+        Dim cnt As Integer
+        Dim cnt1 As Integer
+        cnt = DataGridView1.Rows.Count
+        cnt1 = DataGridView2.Rows.Count
+        If cnt = 1 Then
+            Label20.Text = DataGridView1.Rows(0).Cells(1).Value.ToString
+        End If
+        If cnt1 = 1 Then
+            Label21.Text = DataGridView2.Rows(0).Cells(1).Value.ToString
+        End If
+    End Sub
+
+    Private Sub TabPage4_Leave(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TabPage4.Leave
+        Label20.Text = ""
+        Label21.Text = ""
+    End Sub
+End Class

@@ -1,0 +1,220 @@
+Public Class viewdata
+    Public Property type As String
+    Public Property iden As Integer
+    Private Sub viewdata_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        Me.DistincttypeTableAdapter.Fill(Me.DemobudgetDataSet.distincttype)
+        ComboBox1.SelectedItem = Nothing
+        Me.MdiParent = MDI
+        Me.CenterToScreen()
+    End Sub
+
+    Private Sub DataGridView1_CellClick(ByVal sender As Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs) Handles DataGridView1.CellClick
+       
+    End Sub
+
+    Private Sub DataGridView1_CellContentClick(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs) Handles DataGridView1.CellContentClick
+       
+        Dim iden As Integer
+        Dim admincode As String
+        Dim econcode As String
+        Dim fundcode As String
+        Dim app2013 As Decimal
+        Dim actual2014 As Decimal
+        Dim appprop2014 As Decimal
+        Dim prop2015 As Decimal
+        Dim prop2016 As Decimal
+        Dim lgcode As String
+        Dim lgname As String
+        Dim type As String
+        Dim functionalcode As String
+        Dim programmecode As String
+        Dim geocode As String
+        'Dim frm As Form
+        If ComboBox1.Text = "RECURRENT REVENUE" Then
+            Dim frm As New editrecurrentrev
+            iden = DataGridView1.CurrentRow.Index
+            admincode = DataGridView1.CurrentRow.Cells.Item(12).Value.ToString
+            econcode = DataGridView1.CurrentRow.Cells.Item(18).Value.ToString
+            fundcode = DataGridView1.CurrentRow.Cells.Item(24).Value.ToString
+            app2013 = DataGridView1.CurrentRow.Cells.Item(8).Value
+            appprop2014 = DataGridView1.CurrentRow.Cells.Item(9).Value
+            prop2015 = DataGridView1.CurrentRow.Cells.Item(10).Value
+            prop2016 = DataGridView1.CurrentRow.Cells.Item(11).Value
+            lgcode = DataGridView1.CurrentRow.Cells.Item(45).Value
+            lgname = DataGridView1.CurrentRow.Cells.Item(46).Value
+            actual2014 = DataGridView1.CurrentRow.Cells.Item(44).Value
+            type = ComboBox1.Text
+            frm.iden = iden
+            frm.admincode = admincode
+            frm.econcode = econcode
+            frm.fundcode = fundcode
+            frm.app2013 = app2013
+            frm.app_prop2014 = appprop2014
+            frm.prop2015 = prop2015
+            frm.prop2016 = prop2016
+            frm.actual2014 = actual2014
+            frm.lgcode = lgcode
+            frm.lgname = lgname
+            frm.type = type
+            frm.adname = ComboBox2.Text
+            frm.Show()
+            Me.Close()
+        End If
+        If ComboBox1.Text = "RECURRENT EXPENDITURE" Then
+            Dim frm As New editrecexp
+            iden = DataGridView1.CurrentRow.Index
+            admincode = DataGridView1.CurrentRow.Cells.Item(12).Value.ToString
+            econcode = DataGridView1.CurrentRow.Cells.Item(18).Value.ToString
+            fundcode = DataGridView1.CurrentRow.Cells.Item(24).Value.ToString
+            app2013 = DataGridView1.CurrentRow.Cells.Item(8).Value
+            appprop2014 = DataGridView1.CurrentRow.Cells.Item(9).Value
+            prop2015 = DataGridView1.CurrentRow.Cells.Item(10).Value
+            prop2016 = DataGridView1.CurrentRow.Cells.Item(11).Value
+            actual2014 = DataGridView1.CurrentRow.Cells.Item(44).Value
+            lgcode = DataGridView1.CurrentRow.Cells.Item(45).Value
+            lgname = DataGridView1.CurrentRow.Cells.Item(46).Value
+            type = ComboBox1.Text
+            frm.iden = iden
+            frm.admincode = admincode
+            frm.econcode = econcode
+            frm.fundcode = fundcode
+            frm.app2013 = app2013
+            frm.app_prop2014 = appprop2014
+            frm.prop2015 = prop2015
+            frm.prop2016 = prop2016
+            frm.lgcode = lgcode
+            frm.lgname = lgname
+            frm.type = type
+            frm.adname = ComboBox2.Text
+            frm.actual2014 = actual2014
+            frm.Show()
+            Me.Close()
+        End If
+        If ComboBox1.Text = "CAPITAL RECEIPTS" Then
+            Dim frm As New editcaprec
+            iden = DataGridView1.CurrentRow.Index
+            admincode = DataGridView1.CurrentRow.Cells.Item(12).Value.ToString
+            econcode = DataGridView1.CurrentRow.Cells.Item(18).Value.ToString
+            fundcode = DataGridView1.CurrentRow.Cells.Item(24).Value.ToString
+            app2013 = DataGridView1.CurrentRow.Cells.Item(8).Value
+            appprop2014 = DataGridView1.CurrentRow.Cells.Item(9).Value
+            prop2015 = DataGridView1.CurrentRow.Cells.Item(10).Value
+            prop2016 = DataGridView1.CurrentRow.Cells.Item(11).Value
+            actual2014 = DataGridView1.CurrentRow.Cells.Item(44).Value
+            lgcode = DataGridView1.CurrentRow.Cells.Item(45).Value
+            lgname = DataGridView1.CurrentRow.Cells.Item(46).Value
+            type = ComboBox1.Text
+            frm.iden = iden
+            frm.admincode = admincode
+            frm.econcode = econcode
+            frm.fundcode = fundcode
+            frm.app2013 = app2013
+            frm.app_prop2014 = appprop2014
+            frm.prop2015 = prop2015
+            frm.prop2016 = prop2016
+            frm.lgcode = lgcode
+            frm.lgname = lgname
+            frm.type = type
+            frm.adname = ComboBox2.Text
+            frm.actual2014 = actual2014
+            frm.Show()
+            Me.Close()
+        End If
+        If ComboBox1.Text = "CAPITAL EXPENDITURE" Then
+            Dim frm As New editcapexp
+            iden = DataGridView1.CurrentRow.Index
+            admincode = DataGridView1.CurrentRow.Cells.Item(12).Value.ToString
+            econcode = DataGridView1.CurrentRow.Cells.Item(18).Value.ToString
+            fundcode = DataGridView1.CurrentRow.Cells.Item(24).Value.ToString
+            app2013 = DataGridView1.CurrentRow.Cells.Item(8).Value
+            appprop2014 = DataGridView1.CurrentRow.Cells.Item(9).Value
+            prop2015 = DataGridView1.CurrentRow.Cells.Item(10).Value
+            prop2016 = DataGridView1.CurrentRow.Cells.Item(11).Value
+            actual2014 = DataGridView1.CurrentRow.Cells.Item(44).Value
+            lgcode = DataGridView1.CurrentRow.Cells.Item(45).Value
+            lgname = DataGridView1.CurrentRow.Cells.Item(46).Value
+            functionalcode = DataGridView1.CurrentRow.Cells.Item(28).Value
+            programmecode = DataGridView1.CurrentRow.Cells.Item(32).Value
+            geocode = DataGridView1.CurrentRow.Cells.Item(38).Value
+            type = ComboBox1.Text
+            frm.iden = iden
+            frm.admincode = admincode
+            frm.econcode = econcode
+            frm.fundcode = fundcode
+            frm.app2013 = app2013
+            frm.app_prop2014 = appprop2014
+            frm.actual2014 = actual2014
+            frm.prop2015 = prop2015
+            frm.prop2016 = prop2016
+            frm.lgcode = lgcode
+            frm.lgname = lgname
+            frm.type = type
+            frm.functionalcode = functionalcode
+            frm.progcode = programmecode
+            frm.geocode = geocode
+            frm.adname = ComboBox2.Text
+            frm.actual2014 = actual2014
+            frm.Show()
+            Me.Close()
+        End If
+    End Sub
+
+    Private Sub ComboBox1_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ComboBox1.SelectedIndexChanged
+        Me.DeptTableAdapter.dept(Me.DemobudgetDataSet.dept, ComboBox1.Text)
+        ComboBox2.SelectedItem = Nothing
+        Me.Transactions1TableAdapter.FillBy(Me.DemobudgetDataSet.Transactions1, ComboBox1.Text, ComboBox2.Text, ComboBox3.Text)
+    End Sub
+
+    Private Sub Button5_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button5.Click
+        Me.Close()
+    End Sub
+
+    Private Sub Button4_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button4.Click
+        Dim result As DialogResult
+        If DataGridView1.SelectedRows.Count = 1 Then
+            result = MessageBox.Show("Are you sure you want to delete this user", "Delete", MessageBoxButtons.YesNo)
+            If result = DialogResult.Yes Then
+                DataGridView1.Rows.Remove(DataGridView1.SelectedRows(0))
+            Else
+                Exit Sub
+            End If
+        Else
+            MessageBox.Show("Select a row, by click the row marker, before you hit Delete")
+            Exit Sub
+        End If
+    End Sub
+
+    Private Sub Button3_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button3.Click
+        Me.Transactions1BindingSource.EndEdit()
+        Me.Transactions1TableAdapter.Update(Me.DemobudgetDataSet.Transactions1)
+        MsgBox("Database updated successfully")
+    End Sub
+
+   
+
+   
+
+    Private Sub Label2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Label2.Click
+
+    End Sub
+
+    Private Sub Label1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Label1.Click
+
+    End Sub
+
+    Private Sub Label3_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Label3.Click
+
+    End Sub
+
+    Private Sub ComboBox3_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ComboBox3.SelectedIndexChanged
+        Me.Transactions1TableAdapter.FillBy(Me.DemobudgetDataSet.Transactions1, ComboBox1.Text, ComboBox2.Text, ComboBox3.Text)
+    End Sub
+
+    Private Sub ComboBox2_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ComboBox2.SelectedIndexChanged
+        Me.Transactions1TableAdapter.FillBy(Me.DemobudgetDataSet.Transactions1, ComboBox1.Text, ComboBox2.Text, ComboBox3.Text)
+    End Sub
+
+    Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+
+    End Sub
+End Class
